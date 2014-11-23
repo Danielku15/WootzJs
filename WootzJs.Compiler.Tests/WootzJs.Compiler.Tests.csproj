@@ -96,7 +96,10 @@
     <Compile Include="NumberTests.cs" />
     <Compile Include="ObjectInitializerTests.cs" />
     <Compile Include="OperatorOverloadTests.cs" />
+    <Compile Include="PartialClassWithUsingsTestClass.cs" />
+    <Compile Include="PartialClassWithUsingsPart1.cs" />
     <Compile Include="PartialClassPart1.cs" />
+    <Compile Include="PartialClassWithusingsPart2.cs" />
     <Compile Include="PartialClassPart2.cs" />
     <Compile Include="PartialClassTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
